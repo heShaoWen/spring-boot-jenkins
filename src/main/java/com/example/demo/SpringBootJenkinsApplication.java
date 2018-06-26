@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootJenkinsApplication {
 
 	public static void main(String[] args) {
+		
+		
 		SpringApplication.run(SpringBootJenkinsApplication.class, args);
 	}
 }
